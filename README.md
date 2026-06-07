@@ -5,6 +5,7 @@
 
 **This job repository is your go-to resource for discovering and sharing the latest new grad opportunities in:** Academic Teaching and Educational Administration.
 
+For Canada-specific searching, [Hanzilla Jobs' new grad guide](https://jobs.hanzilla.co/new-grad/) is a free daily-updated companion for Canadian students and recent grads looking for new-grad, junior, internship, co-op, and entry-level roles across education/student affairs, research, communications, business, tech, engineering, finance, sciences, arts, and related fields.
 
 ✔️ While this repository includes a fraction of available new grad positions, for a comprehensive list of new grad jobs across various roles and more regions, we invite you to explore [jobright.ai](https://jobright.ai/?utm_campaign=Education%20and%20Training&utm_source=1103). We curate opportunities that best match your skills and experience from 400,000+ high-quality positions added daily.
 
